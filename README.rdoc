@@ -1,28 +1,4 @@
-== README
+This is the source code that goes with the article I wrote about how to set up your rails app with a Users database, and the ability for users to create accounts, and log into your application (authentication), using the Devise gem.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+If you'd like to read the article, you can do so by following this link:
+http://agasmi.me/posts/modelling-users-and-authentication-using-devise-in-ruby-on-rails
